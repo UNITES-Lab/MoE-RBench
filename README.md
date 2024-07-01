@@ -77,7 +77,7 @@ Please refer to [DoLa](https://github.com/voidism/DoLa).
 ```bibtex
 @inproceedings{
 chen2024moerbench,
-title={MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts},
+title={$\texttt{MoE-RBench}$: Towards Building Reliable Language Models with Sparse Mixture-of-Experts},
 author={Guanjie Chen and Xinyu Zhao and Tianlong Chen and Yu Cheng},
 booktitle={The Forty-first International Conference on Machine Learning},
 year={2024},
