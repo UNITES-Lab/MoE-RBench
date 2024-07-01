@@ -1,0 +1,7 @@
+# ninja log v5
+0	80	1711867400471717628	/home/LeiFeng/cgj/Robust_SMoE/ood-evaluation/moduleformer/utils/build/temp.linux-x86_64-cpython-39/fairseq/clib/libbleu/module.o	ab4789f218c18719
+0	134	1711867400527717592	/home/LeiFeng/cgj/Robust_SMoE/ood-evaluation/moduleformer/utils/build/temp.linux-x86_64-cpython-39/fairseq/clib/libbleu/libbleu.o	4ce2e4e5d6640b3e
+0	3139	1711867404447715082	/home/LeiFeng/cgj/Robust_SMoE/ood-evaluation/moduleformer/utils/build/temp.linux-x86_64-cpython-39/fairseq/data/data_utils_fast.o	ae20e40c0a274891
+0	3304	1711867408427712531	/home/LeiFeng/cgj/Robust_SMoE/ood-evaluation/moduleformer/utils/build/temp.linux-x86_64-cpython-39/fairseq/data/token_block_utils_fast.o	7c24bc470960ea53
+1	11076	1711867419615705363	/home/LeiFeng/cgj/Robust_SMoE/ood-evaluation/moduleformer/utils/build/temp.linux-x86_64-cpython-39/fairseq/clib/libbase/balanced_assignment.o	f896ce5062de2cd2
+2	12309	1711867432171697319	/home/LeiFeng/cgj/Robust_SMoE/ood-evaluation/moduleformer/utils/build/temp.linux-x86_64-cpython-39/fairseq/clib/libnat/edit_dist.o	41a817f7321eb3fb
